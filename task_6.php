@@ -2,7 +2,7 @@
 
 $number = 5;
 $nullable = null;
-$result = $number - $nullable;
+$result = $nullable - $number;
 echo $result;
 
 
